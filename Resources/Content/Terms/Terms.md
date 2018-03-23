@@ -12,6 +12,7 @@ The following terms and conditions apply to all services and products of Colloq 
 
 We require you to have read and agreed to our terms of service and our privacy policy without exception. By accessing and using our services, you agree to be bound by the following Terms of Service. If you do not agree, you may not use any of our services. Any offer made by Colloq to you under the government of foobartel Ltd. is bound to the acceptance of the same agreements. Colloq’s services are only available for human individuals who are at least 13 years old.
 
+**Summary:**   
 **Colloq is incorporated under the laws of Hong Kong, and by using our service you accept our agreements without condition.**
 
 ## Definitions
@@ -31,12 +32,14 @@ You are responsible to ensure that your use of the Service complies with the law
 
 You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, or access to the Service without Colloq’s express written permission. You may not extract any data from our Website, especially by using an automated process for commercial (i.e. directly or indirectly in connection with any business, or other undertaking intended for profit) or spamming purposes, including for the purposes of selling Colloq users' personal information, such as to recruiters, headhunters, and job boards. You agree not to engage in any activity that significantly harms our users. We will resolve disputes in favor of protecting our users as a whole.
 
+**Summary:**   
 **You undertake to use our services exclusively for legal and authorized purposes in accordance with applicable laws and regulations.**
 
 ## Visitor’s Responsibilities
 
 Colloq is not able to review all User-Generated Content and therefore cannot be held liable for content that we haven’t created. We do not represent or endorse content published by others. It may therefore be possible that the Service contains harassing, offensive, violent content or harmful, destructive content like viruses or trojans. Colloq may contain content that violates copyright, laws, publicity rights of third-parties parties. If you encounter any such content please [inform us immediately](/contact).
 
+**Summary:**   
 **Colloq is not responsible for content published by others and cannot be held liable for any damages caused by such content.**
 
 ## Third-Party Data Sharing
@@ -47,6 +50,7 @@ The service of Colloq can be enhanced by signing in to third-party services. The
 
 Colloq shares the minimum amount of data necessary with these services. By connecting to them, you grant Colloq the right to use and store the public information that is available to us.
 
+**Summary:**   
 **We use third party services to operate Colloq. We try to share and store as little information as possible.**
 
 ## Your Account
@@ -59,6 +63,7 @@ We may suspend or terminate your account in case of infringement of the Agreemen
 
 However, certain provisions of these Agreements shall survive termination.
 
+**Summary:**   
 **You are responsible for the actions that are performed by the account that we provide to you. Colloq and yourself can terminate your account at any time, but we require you to grant us permission to display your contributed content, in order to ensure the continuity of the services provided by Colloq.**
 
 ## Intellectual Property
@@ -67,12 +72,14 @@ Users are not allowed to share any illegal, offensive, sexually obscene, fraudul
 
 You retain ownership of and responsibility for content you create even if it does not belong to you. You grant Us and our legal successors the right to store and display your Content and make incidental copies as necessary to render the Website and provide the Service. By uploading content to Colloq, you hereby grant Colloq a worldwide, non-exclusive, royalty-free sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, publish, adapt, make available online or electronically transmit, and perform the Content you post. We may edit and alter User-Generated Content to correct errors or remove inappropriate content at any time without notification. This license does not grant Colloq the right to sell your Content or otherwise distribute it outside of our Service.
 
+**Summary:**   
 **You grant us a non-exclusive and royalty-free right to use the content you generated in order to operate our services.**
 
 ## Promotion
 
 Colloq is a platform that promotes events and allows reasonable self-promotion. We require any promotions on any page of Colloq to not be intrusive, violent, harassing, annoying or promoting illegal products, services or activities. We don’t allow spamming or bulk-creating content or any other form of showing content that causes annoyance to our users on Colloq. We reserve the right to delete any inappropriate content once we get knowledge about the abuse and to take further action against anyone who may be responsible for the violations of our Agreements, including, but not limited to, blocking access to our Service without refund. We may also take legal action, if necessary.
 
+**Summary:**   
 **We allow reasonable promotion but may intervene to keep our content clean.**
 
 ## Payments
@@ -87,12 +94,14 @@ We reserve the right to delete your account at any time. If you terminate an acc
 
 In order to treat everyone equally, no exceptions will be made.
 
+**Summary:**   
 **To provide a sustainable business we offer optional paid services. Prices and features might change at any time and we do not offer refunds. In order to treat everyone equally, no exceptions will be made.**
 
 ## Content Posted On Other Websites
 
 The Service contains links to other websites. The contents of other websites, services, goods or advertisements that may be linked from the website are not maintained or controlled by Colloq. Therefore, Colloq is not responsible for the availability, content or accuracy of other websites. By leaving Colloq’s website through a link, we do not endorse or imply correctness of the content on the references’ sites. It is Your responsibility to protect yourself from linked websites. Colloq disclaims any responsibility for any harm resulting from Your use of non-Colloq websites and webpages.
 
+**Summary:**   
 **We are not responsible for content that we don’t own and control.**
 
 ## Security & Confidentiality
@@ -101,6 +110,7 @@ You will not attempt to disrupt or tamper with Colloq’s servers in any way and
 
 We take security seriously and we expect people who find any data leak or security issue to [contact Us](/contact) immediately in private and share the details only with Us to keep our Users safe.
 
+**Summary:**   
 **Any security breaches found must be privately reported to us.**
 
 ## Agreement Changes
@@ -109,6 +119,7 @@ We reserve the right, at our sole discretion, to change, extend or remove conten
 
 For any modifications, by continuing to use our Services, you agree to be bound by these Terms of Service as modified.
 
+**Summary:**   
 **We may modify this agreement without notice, unless the amendments are related to pricing changes in which case we will respect a 14 days’ notice.**
 
 ## Disclaimer of Warranties
@@ -117,6 +128,7 @@ Our Services are provided “as is”. Colloq and its suppliers and licensors he
 
 You understand that you download from, or otherwise obtain content or services through our Services at your own discretion and risk.
 
+**Summary:**   
 **We provide our services “as is”. We make no promises or guarantees about this service.**
 
 ## Limitation of Liability
@@ -128,12 +140,14 @@ In no event will We be liable with respect to any subject matter of this Agreeme
 3. for interruption of use or loss or corruption of data; or
 4. for any amounts that exceed the fees paid by you to Colloq under this agreement during the twelve (12) month period prior to the cause of action. Colloq shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
+**Summary:**   
 **Colloq will not be liable for any damage or loss emerging from your use or inability to use our services or otherwise arising under these agreements.**
 
 ## Indemnification
 
 You agree to indemnify and hold harmless Colloq or foobartel Ltd., its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of our Services, including but not limited to your violation of this Agreement. This defense and indemnification obligation will survive these Agreements and your use of the Service. 
 
+**Summary:**   
 **You alone are responsible for your use of our services. If you harm someone else or get into a dispute with someone else, we will not be involved.**
 
 ## Miscellaneous
