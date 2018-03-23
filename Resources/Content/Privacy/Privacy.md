@@ -25,10 +25,10 @@ In case Do-Not-Track (<abbr>DNT</abbr>) is enabled while attempting to view exte
 
 ## Financial Transactions
 
-For any financial transaction we use _payment provider_. For payments and related data to be processed and get verified, the terms and conditions of the payment provider apply. Credit card numbers are never shared with us.
+For any financial transaction we use [Stripe](https://stripe.com). For payments and related data to be processed and get verified, the terms and conditions of the payment provider apply. Credit card numbers are never shared nor stored with us.
 
 ## Security
 
-Even though we would like to, we can’t promise you absolute security until the end of times. What we can guarantee, is that we want to keep your personal information safe as much as you do. We will do our best to protect all data stored on Colloq. In case we will become aware of any sort of data breach, we will inform all affected users as soon as possible.
+Even though we would like to, we can’t promise you absolute security until the end of times. What we can guarantee, is that we keep your personal information as safe as possible and are doing our best to protect all data stored on Colloq. In case we will become aware of any sort of data breach, we will inform all affected users promptly.
 
 Last updated: 2017-08-04
