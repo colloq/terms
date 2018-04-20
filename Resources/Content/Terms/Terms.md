@@ -10,7 +10,7 @@ Welcome to our Terms of Service. We try to keep this document as short and as re
 
 The following terms and conditions apply to all services and products of Colloq and include all content services and products available at or through Colloq. Colloq is operated by foobartel Ltd, a company registered under the laws of Hong Kong. Theses terms and conditions shall apply to all users of the services, including users who are also contributors of content on the services.
 
-We require you to have read and agreed to our terms of service and our privacy policy without exception. By accessing and using our services, you agree to be bound by the following Terms of Service. If you do not agree, you may not use any of our services. Any offer made by Colloq to you under the government of foobartel Ltd. is bound to the acceptance of the same agreements. Colloq’s services are only available for human individuals who are at least 13 years old.
+We require you to have read and agreed to our terms of service and our privacy policy without exception. By accessing and using our services, you agree to be bound by the following Terms of Service. If you do not agree, you may not use any of our services. Any offer made by Colloq to you under the government of foobartel Ltd. is bound to the acceptance of the same agreements. Colloq’s services are only available for human individuals who are at least 16 years old.
 
 **Summary:**   
 **Colloq is incorporated under the laws of Hong Kong, and by using our service you accept our agreements without condition.**
@@ -44,7 +44,7 @@ Colloq is not able to review all User-Generated Content and therefore cannot be 
 
 ## Third-Party Data Sharing
 
-Colloq’s software is hosted in Amsterdam, Netherlands and Frankfurt, Germany. Emails are sent through the same servers or via Amazon Web Services in Ireland (“External services”). We use a third-party provider to collect payments for purchases or subscriptions. You agree to use the External Services at your sole risk.
+Colloq’s software is hosted in Frankfurt, Germany. Emails are sent from the European Amazon AWS SES location in Ireland in order to best protect your data under European jurisdiction. We use a third-party provider to collect payments for purchases or subscriptions. You agree to use the External Services at your sole risk.
 
 The service of Colloq can be enhanced by signing in to third-party services. The terms of service and privacy policy of those third-party services apply. Colloq may not be held liable for your use of any of these third-party services, including those that have a link on our Website. 
 
@@ -57,7 +57,7 @@ Colloq shares the minimum amount of data necessary with these services. By conne
 
 Using our Service and accessing your Content may require an account. We offer different types of accounts for users to enhance their experience on the website: a free account and different kinds of paid subscription accounts. You are responsible for maintaining its security and confidentiality. Colloq will not be liable for the actions of a user’s account. Please [contact Colloq](/contact) if you suspect that your account has been compromised.
 
-Users can delete their account at any time. If You do, We will do our best to keep the sole data needed to ensure continuity of the Service. You acknowledge that caching, backups or references to the content may not be made immediately unavailable.
+Users can delete their account at any time. If You do, We will do our best to keep the sole data needed to ensure continuity of the Service. You acknowledge that caching, backups or references to the content may not be made immediately unavailable. Backups are securely stored for one month before they will be deleted.
 
 We may suspend or terminate your account in case of infringement of the Agreements. Deleting an account terminates these Agreements, but grants us an indefinite license for content you collaborated to the service (e.g. event pages). This ensures that we can continue to provide this content beyond the termination of the Agreements.
 
