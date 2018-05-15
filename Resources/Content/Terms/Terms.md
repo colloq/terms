@@ -2,8 +2,6 @@ title: Terms and Conditions
 ----
 content:
 
-Last updated: 2017-08-21
-
 ## Introduction
 
 Welcome to our Terms of Service. We try to keep this document as short and as readable for you as possible.
@@ -165,6 +163,14 @@ This Agreement contains section titles and brief summaries of the terms and cond
 This Agreement represents the complete and exclusive statement between you and us. This Agreement supersedes any oral or written proposal or prior agreements, and any other communications between you and Colloq.
 
 If you have any further questions about our Terms of Service, please [contact us](/contact).
+
+---
+
+## Changelog
+
+- **May, 15th 2018:** Change minimum age of users of our services to 16 and clarify language.
+
+---
 
 ## Attribution:
 
