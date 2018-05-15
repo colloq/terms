@@ -67,9 +67,7 @@ We may update this privacy policy in the future. If we make any material changes
 
 ---
 
-Last updated: 2018-04-13
-
 ## Changelog
 
-- **April, 13th 2018:** We restructured our privacy policy to be easier to read, understand and to comply with the EU GDPR. We added useful information about what data we collect and why, how to access or delete your personal data, added information about our service providers and listed our third-party integrations.
+- **May, 15th 2018:** We restructured our privacy policy to be easier to read, understand and to comply with the EU GDPR. We added useful information about what data we collect and why, how to access or delete your personal data, added information about our service providers and listed our third-party integrations.
 - **March, 23rd 2018:** Simpler and clearer language in the ‘security’ section and added Stripe as service provider for financial transactions.
