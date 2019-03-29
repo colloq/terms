@@ -6,12 +6,12 @@ content:
 
 Welcome to our Terms of Service. We try to keep this document as short and as readable for you as possible.
 
-The following terms and conditions apply to all services and products of Colloq and include all content services and products available at or through Colloq. Colloq is operated by foobartel Ltd, a company registered under the laws of Hong Kong. Theses terms and conditions shall apply to all users of the services, including users who are also contributors of content on the services.
+The following terms and conditions apply to all services and products of Colloq and include all content services and products available at or through Colloq. Colloq operates under foobartel Ltd., a company registered under the laws of Hong Kong. Theses terms and conditions shall apply to all users of the services, including users who are also contributors of content on the services.
 
 We require you to have read and agreed to our terms of service and our privacy policy without exception. By accessing and using our services, you agree to be bound by the following Terms of Service. If you do not agree, you may not use any of our services. Any offer made by Colloq to you under the government of foobartel Ltd. is bound to the acceptance of the same agreements. Colloq’s services are only available for human individuals who are at least 16 years old.
 
 **Summary:**   
-**Colloq is incorporated under the laws of Hong Kong, and by using our service you accept our agreements without condition.**
+**Colloq operates under foobartel Ltd., incorporated in Hong Kong, and by using our service you accept our agreements without condition.**
 
 ## Definitions
 
@@ -169,6 +169,7 @@ If you have any further questions about our Terms of Service, please [contact us
 ## Changelog
 
 - **May, 15th 2018:** Change minimum age of users of our services to 16 and clarify language.
+  **March, 29th 2019:** We’ve made some cosmetic improvements to the wording of the terms of service.
 
 ---
 
